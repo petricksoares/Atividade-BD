@@ -1,4 +1,4 @@
-public class loja {
+public class Loja {
     public static void main(String[] args) {
         // Criando instâncias de Produto com nome, preço e porcentagem de desconto
         Produto celular = new Produto("Celular", 2000.0, 0.10);
